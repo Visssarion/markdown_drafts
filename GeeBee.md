@@ -7,14 +7,14 @@
 
 <img align="left" width="64" height="64"  src="https://file.garden/Y_DOyh4lvlrDqOVn/Retroachievements/Gee%20Bee/5k.png">
 
-| [Larva's First Score (4)](https://retroachievements.org/achievement/319725) |
+| [Larva's First Score (1)](https://retroachievements.org/achievement/319725) |
 |:-|
 | Get 5,000 Points (3 Lives setting) |
 
 
 <img align="left" width="64" height="64"  src="https://file.garden/Y_DOyh4lvlrDqOVn/Retroachievements/Gee%20Bee/10k.png">
 
-| [Big Brick Breaker Bee (5)](https://retroachievements.org/achievement/319928) |
+| [Big Brick Breaker Bee (3)](https://retroachievements.org/achievement/319928) |
 |:-|
 | Get 10,000 Points (3 Lives setting) |
 
@@ -35,7 +35,7 @@
 
 <img align="left" width="64" height="64"  src="https://file.garden/Y_DOyh4lvlrDqOVn/Retroachievements/Gee%20Bee/gee%20bee.png">
 
-| [Gee Bee (25)](https://retroachievements.org/achievement/319935) |
+| [Gee Bee (50](https://retroachievements.org/achievement/319935) |
 |:-|
 | Get 100,000 Points (3 Lives setting) |
 
